@@ -11,7 +11,7 @@
     "color": "^3.0.0",
     "core-js": "^2.6.5",
     "is-primitive": "^3.0.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.18.1",
     "loglevel": "^1.4.1",
     "loglevel-plugin-prefix": "^0.8.4",
     "office-ui-fabric-react": "^6.211.6",
